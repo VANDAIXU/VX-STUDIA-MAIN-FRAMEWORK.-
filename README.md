@@ -1,0 +1,2 @@
+# VX-STUDIA-MAIN-FRAMEWORK.-
+a repo's of VX STUDIA AIGC
